@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FireStoreDemo</string>
+
+    //login strings//
+    <string name="enter_email">Please Enter your email</string>
+    <string name="enter_name">Please Enter your name</string>
+    <string name="enter_password">Please Enter password</string>
+    <string name="enter_class">Please Enter class</string>
+    <string name="email_empty">Email field is empty</string>
+    <string name="name_empty">Name field is empty</string>
+    <string name="invalid_email">Please Enter valid email</string>
+    <string name="password_empty">Please Enter email</string>
+    <string name="class_empty">Please Enter class</string>
+
+    <string name="home">Home</string>
+    <string name="report">Report</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
